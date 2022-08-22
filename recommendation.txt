@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 First
 Second
 Third
-=======
->>>>>>> parent of 9e86318 (Adding 1 word)
+
